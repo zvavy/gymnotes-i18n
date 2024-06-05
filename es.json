@@ -127,5 +127,21 @@
   "clear": "Limpiar",
   "workouts.total:": "Total de Entrenamientos:",
   "total": "Total",
-  "Biceps": "Bíceps"
+  "Biceps": "Bíceps",
+   "faqQuestion1": "What does GymNotes PRO include?",
+  "faqQuestionAnswer1": "GymNotes PRO offers full access to all PRO features. Create unlimited custom exercises, access unlimited chart history, and benefit from all future features!",
+  "faqQuestion2": "Can I cancel my subscription anytime?",
+  "faqQuestionAnswer2": "Yes, you can cancel your GymNotes PRO monthly or yearly subscription at any time! You will retain access to all GymNotes PRO features until your current subscription period ends.",
+  "faqQuestion3": "What's the best way to get started?",
+  "faqQuestionAnswer3": "Start a workout and add a few exercises! This will give you a clear understanding of how GymNotes works and showcases all its features.",
+  "faqQuestion4":"Is GymNotes PRO a one-time payment or will it renew automatically?",
+  "faqQuestionAnswer4":"GymNotes PRO offers both monthly and yearly subscription plans that renew automatically at the end of each term to ensure uninterrupted service. If you decide to cancel, you will still have access to GymNotes PRO until your current subscription period ends. Additionally, GymNotes PRO offers a Lifetime plan, which is a one-time purchase.",
+  "faqQuestion5":"Can I switch subscription plans?",
+  "faqQuestionAnswer5":"Yes, absolutely. You can change your subscription plan at any time. You also have the option to switch to the Lifetime plan. For detailed instructions, please refer to our FAQ.",
+  "faqQuestion6":"What happens if I switch devices or platforms?",
+  "faqQuestionAnswer6":"You can sign into your account across different platforms using the same username and password. The subscription is linked to your account, not to a specific platform. You can be signed into two devices simultaneously, even if they are on different platforms.",
+  "faqQuestion7": "How does the GymNotes PRO Lifetime plan work?",
+  "faqQuestionAnswer7":"The GymNotes PRO Lifetime plan is a one-time purchase, giving you access to all GymNotes PRO features forever. If you are currently subscribed to a monthly or yearly plan and wish to switch to the Lifetime plan, please cancel your existing subscription after purchasing the Lifetime plan to prevent any recurring charges.",
+  "faqQuestion8":"Is it possible to get a refund?",
+  "faqQuestionAnswer8": "Google: Within 48 hours of your purchase you can get a full refund through Google Play. Otherwise, within 14 days of your purchase, contact us at hello@gymnotes.com for a refund. \n iOS: Within 48 hours of your purchase you can get a full refund through Apple Store. Otherwise, within 14 days of your purchase, contact us at hello@gymnotes.com for a refund."
 }

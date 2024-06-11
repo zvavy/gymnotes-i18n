@@ -140,6 +140,8 @@
   "maxWeight": "Peso máximo",
   "maxReps": "Max repso",
   "maxVolume": "Maximo volumen",
+  "category": "Categoría",
+  "exercise.type": "Tipo de ejercicio",
   "exercise.name": "Nombre del ejercicio",
   "repeat.workout": "repetir el entrenamiento",
   "faqQuestion1": "¿Qué incluye GymNotes PRO?",

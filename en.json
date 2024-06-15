@@ -170,5 +170,21 @@
    "cardio": "Cardio",
    "neck": "Neck",
    "other": "Other",
-   "all": "All"
+   "all": "All",
+   "biceps": "Biceps",
+   "triceps": "Triceps",
+   "forearms": "Forearms",
+   "quadriceps": "Quads",
+   "hamstrings": "Hams",
+   "calves": "Calves",
+   "obliques": "Obliques",
+   "trapezius": "Traps",
+   "lats": "Lats",
+   "rhomboids": "Rhomboids",
+   "abductors": "Abductors",
+   "adductors": "Adductors",
+   "lower.back": "Lower Back",
+   "upper.rear.shoulder": "Upper Rear",
+   "lower.rear.shoulder": "Lower Rear",
+   "hip.flexor": "Hip Flexor"
 }

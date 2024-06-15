@@ -159,5 +159,16 @@
   "faqQuestion7": "¿Cómo funciona el plan de por vida de GymNotes PRO?",
   "faqQuestionAnswer7": "El plan de por vida de GymNotes PRO es una compra única, lo que te da acceso a todas las características de GymNotes PRO para siempre. Si actualmente estás suscrito a un plan mensual o anual y deseas cambiar al plan de por vida, cancela tu suscripción existente después de comprar el plan de por vida para evitar cualquier cargo recurrente.",
   "faqQuestion8": "¿Es posible obtener un reembolso?",
-  "faqQuestionAnswer8": "Google: Dentro de las 48 horas posteriores a tu compra puedes obtener un reembolso completo a través de Google Play. De lo contrario, dentro de los 14 días posteriores a tu compra, contáctanos en hello@gymnotes.com para un reembolso.\n iOS: Dentro de las 48 horas posteriores a tu compra puedes obtener un reembolso completo a través de Apple Store. De lo contrario, dentro de los 14 días posteriores a tu compra, contáctanos en hello@gymnotes.com para un reembolso."
+  "faqQuestionAnswer8": "Google: Dentro de las 48 horas posteriores a tu compra puedes obtener un reembolso completo a través de Google Play. De lo contrario, dentro de los 14 días posteriores a tu compra, contáctanos en hello@gymnotes.com para un reembolso.\n iOS: Dentro de las 48 horas posteriores a tu compra puedes obtener un reembolso completo a través de Apple Store. De lo contrario, dentro de los 14 días posteriores a tu compra, contáctanos en hello@gymnotes.com para un reembolso.",
+  "chest": "Pecho",
+  "back": "Espalda",
+  "legs": "Piernas",
+  "arms": "Brazos",
+  "shoulders": "Hombros",
+  "glutes": "Glúteos",
+  "abs": "Abdominales",
+  "cardio": "Cardio",
+  "neck": "Cuello",
+  "other": "Otros",
+  "all": "Todos"
 }

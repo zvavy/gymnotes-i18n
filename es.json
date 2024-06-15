@@ -170,5 +170,21 @@
   "cardio": "Cardio",
   "neck": "Cuello",
   "other": "Otros",
-  "all": "Todos"
+  "all": "Todos",
+  "biceps": "Bíceps",
+  "triceps": "Tríceps",
+  "forearms": "Antebrazos",
+  "quadriceps": "Cuádriceps",
+  "hamstrings": "Isquios",
+  "calves": "Gemelos",
+  "obliques": "Oblicuos",
+  "trapezius": "Trapecio",
+  "lats": "Dorsales",
+  "rhomboids": "Romboides",
+  "abductors": "Abductores",
+  "adductors": "Aductores",
+  "lower.back": "Lumbar",
+  "upper.rear.shoulder": "Sup. Trasero",
+  "lower.rear.shoulder": "Inf. Trasero",
+  "hip.flexor": "Flexor Cadera"
 }

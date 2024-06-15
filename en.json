@@ -169,5 +169,6 @@
    "abs": "ABS",
    "cardio": "Cardio",
    "neck": "Neck",
-   "other": "Other"
+   "other": "Other",
+   "all": "All"
 }

@@ -159,5 +159,15 @@
    "faqQuestion7":"How does the GymNotes PRO Lifetime plan work?",
    "faqQuestionAnswer7":"The GymNotes PRO Lifetime plan is a one-time purchase, giving you access to all GymNotes PRO features forever. If you are currently subscribed to a monthly or yearly plan and wish to switch to the Lifetime plan, please cancel your existing subscription after purchasing the Lifetime plan to prevent any recurring charges.",
    "faqQuestion8":"Is it possible to get a refund?",
-   "faqQuestionAnswer8":"Google: Within 48 hours of your purchase you can get a full refund through Google Play. Otherwise, within 14 days of your purchase, contact us at hello@gymnotes.com for a refund. \n iOS: Within 48 hours of your purchase you can get a full refund through Apple Store. Otherwise, within 14 days of your purchase, contact us at hello@gymnotes.com for a refund."
+   "faqQuestionAnswer8":"Google: Within 48 hours of your purchase you can get a full refund through Google Play. Otherwise, within 14 days of your purchase, contact us at hello@gymnotes.com for a refund. \n iOS: Within 48 hours of your purchase you can get a full refund through Apple Store. Otherwise, within 14 days of your purchase, contact us at hello@gymnotes.com for a refund.",
+   "chest": "Chest",
+   "back": "Back",
+   "legs": "Legs",
+   "arms": "Arms",
+   "shoulders": "shoulders",
+   "glutes": "glutes",
+   "abs": "ABS",
+   "cardio": "Cardio",
+   "neck": "Neck",
+   "other": "Other"
 }

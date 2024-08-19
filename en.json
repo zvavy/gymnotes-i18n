@@ -187,5 +187,13 @@
    "upper.rear.shoulder": "Upper Rear",
    "lower.rear.shoulder": "Lower Rear",
    "hip.flexor": "Hip Flexor",
-   "get.in.touch": "Get in touch"
+   "get.in.touch": "Get in touch",
+   "Show.more": "Show more",
+   "Show.less": "Show less",
+   "Done": "Done",
+   "Write.a.note": "Write a note",
+   "no.data.yet": "No data yet",
+   "return.once.you.have.a.workout.finished": "Return once you have a workout finished",
+   "return.once.you.have.performed.this.exercise": "Return once you have performed this exercise",
+   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Return once you have performed an exercise for this muscle group"
 }

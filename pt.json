@@ -187,5 +187,13 @@
    "upper.rear.shoulder": "Ombro Posterior Superior",
    "lower.rear.shoulder": "Ombro Posterior Inferior",
    "hip.flexor": "Flexor do Quadril",
-   "get.in.touch": "Contacte-nos"
+   "get.in.touch": "Contacte-nos",
+   "Show.more": "Mostrar mais",
+   "Show.less": "Mostrar menos",
+   "Done": "Concluído",
+   "Write.a.note": "Escrever uma nota",
+   "no.data.yet": "Ainda não há dados",
+   "return.once.you.have.a.workout.finished": "Volte quando tiver concluído um treino",
+   "return.once.you.have.performed.this.exercise": "Volte quando tiver realizado este exercício",
+   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Volte quando tiver realizado um exercício para este grupo muscular"
 }

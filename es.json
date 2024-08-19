@@ -187,5 +187,13 @@
   "upper.rear.shoulder": "Sup. Trasero",
   "lower.rear.shoulder": "Inf. Trasero",
   "hip.flexor": "Flexor Cadera",
-  "get.in.touch": "Contacta con nosotros"
+  "get.in.touch": "Contacta con nosotros",
+  "Show.more": "Mostrar más",
+  "Show.less": "Mostrar menos",
+  "Done": "Hecho",
+  "Write.a.note": "Escribir una nota",
+  "no.data.yet": "Aún no hay datos",
+  "return.once.you.have.a.workout.finished": "Vuelve cuando hayas terminado un entrenamiento",
+  "return.once.you.have.performed.this.exercise": "Vuelve cuando hayas realizado este ejercicio",
+  "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Vuelve cuando hayas realizado un ejercicio para este grupo muscular"
 }

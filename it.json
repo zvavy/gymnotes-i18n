@@ -187,5 +187,13 @@
    "upper.rear.shoulder": "Spalla Posteriore Superiore",
    "lower.rear.shoulder": "Spalla Posteriore Inferiore",
    "hip.flexor": "Flessore dell'anca",
-   "get.in.touch": "Contattaci"
+   "get.in.touch": "Contattaci",
+   "Show.more": "Mostra di più",
+   "Show.less": "Mostra di meno",
+   "Done": "Fatto",
+   "Write.a.note": "Scrivi una nota",
+   "no.data.yet": "Nessun dato ancora",
+   "return.once.you.have.a.workout.finished": "Torna quando hai completato un allenamento",
+   "return.once.you.have.performed.this.exercise": "Torna quando hai eseguito questo esercizio",
+   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Torna quando hai eseguito un esercizio per questo gruppo muscolare"
 }

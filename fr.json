@@ -187,5 +187,13 @@
    "upper.rear.shoulder": "Épaule arrière supérieure",
    "lower.rear.shoulder": "Épaule arrière inférieure",
    "hip.flexor": "Fléchisseur de la hanche",
-   "get.in.touch": "Contactez-nous"
+   "get.in.touch": "Contactez-nous",
+   "Show.more": "Afficher plus",
+   "Show.less": "Afficher moins",
+   "Done": "Terminé",
+   "Write.a.note": "Écrire une note",
+   "no.data.yet": "Pas encore de données",
+   "return.once.you.have.a.workout.finished": "Revenez une fois que vous avez terminé un entraînement",
+   "return.once.you.have.performed.this.exercise": "Revenez une fois que vous avez effectué cet exercice",
+   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Revenez une fois que vous avez effectué un exercice pour ce groupe musculaire"
 }

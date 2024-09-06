@@ -195,5 +195,7 @@
    "no.data.yet": "No data yet",
    "return.once.you.have.a.workout.finished": "Return once you have a workout finished",
    "return.once.you.have.performed.this.exercise": "Return once you have performed this exercise",
-   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Return once you have performed an exercise for this muscle group"
+   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Return once you have performed an exercise for this muscle group",
+   "no.exercise.found": "No exercises found",
+   "try.to.search.better": "Try searching for a more generic  name, or create your own exercise"
 }

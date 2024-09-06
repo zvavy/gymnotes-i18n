@@ -197,5 +197,6 @@
    "return.once.you.have.performed.this.exercise": "Return once you have performed this exercise",
    "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Return once you have performed an exercise for this muscle group",
    "no.exercise.found": "No exercises found",
-   "try.to.search.better": "Try searching for a more generic  name, or create your own exercise"
+   "try.to.search.better": "Try searching for a more generic  name, or create your own exercise",
+   "create.custom":"Create custom",
 }

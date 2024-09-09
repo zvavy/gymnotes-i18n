@@ -196,7 +196,9 @@
    "return.once.you.have.a.workout.finished": "Return once you have a workout finished",
    "return.once.you.have.performed.this.exercise": "Return once you have performed this exercise",
    "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Return once you have performed an exercise for this muscle group",
-   "no.exercise.found": "“{{input}}” is not found in {{categoryName}}",
-   "try.to.search.better": "Try searching for a more generic  name, or create your own exercise",
+   "no.exercise.found.in.category": "“{{input}}” is not found in {{categoryName}}",
+   "no.exercise.found": "“{{input}}” is not found",
+   "try.to.search.better.in.category": "We couldn’t find any exercise matching '{{input}}' in {{categoryName}}.\nTry the following:\nCheck the category\nTry a different name",
+   "try.to.search.better": "We couldn’t find any exercise matching '{{input}}'.\nTry the following:\nCheck the category\nTry a different name",
    "create.custom": "Create custom"
 }

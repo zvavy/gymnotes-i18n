@@ -197,8 +197,10 @@
    "return.once.you.have.performed.this.exercise": "Return once you have performed this exercise",
    "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Return once you have performed an exercise for this muscle group",
    "no.exercise.found.in.category": "“{{input}}” is not found in {{categoryName}}",
-   "no.exercise.found": "“{{input}}” is not found",
+   "no.exercise.found": "Can't find “{{input}}”",
    "try.to.search.better.in.category": "We couldn’t find any exercises matching '{{input}}' in {{categoryName}}.\nPlease check if the name is correct or try a different one.",
-   "try.to.search.better": "We couldn’t find any exercises matching '{{input}}'.\nPlease check if the name is correct or try a different one.",
+   "try.to.search.better": "We couldn’t find any exercises matching <bold>“{{input}}”</bold>.",
+   "try.different.name": "Try a different name",
+   "check.the.category": "Check the category",
    "create.custom": "Create custom"
 }

@@ -202,5 +202,6 @@
    "try.to.search.better": "We couldn’t find any exercises matching <bold>“{{input}}”</bold>.",
    "try.different.name": "Try a different name",
    "check.the.category": "Check the category",
-   "create.custom": "Create custom"
+   "create.custom": "Create custom",
+   "or": "Or"
 }

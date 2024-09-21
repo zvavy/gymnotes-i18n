@@ -195,7 +195,15 @@
    "no.data.yet": "Noch keine Daten",
    "return.once.you.have.a.workout.finished": "Kehren Sie zurück, wenn Sie ein Training abgeschlossen haben",
    "return.once.you.have.performed.this.exercise": "Kehren Sie zurück, wenn Sie diese Übung durchgeführt haben",
-   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Kehren Sie zurück, wenn Sie eine Übung für diese Muskelgruppe durchgeführt haben"
+   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Kehren Sie zurück, wenn Sie eine Übung für diese Muskelgruppe durchgeführt haben",
+   "no.exercise.found.in.category": "“{{input}}” wurde in {{categoryName}} nicht gefunden",
+   "no.exercise.found": "Konnte “{{input}}” nicht finden",
+   "try.to.search.better.in.category": "Wir konnten keine Übungen finden, die <bold>“{{input}}”</bold> in der Kategorie <bold>{{categoryName}}</bold> entsprechen.",
+   "try.to.search.better": "Wir konnten keine Übungen finden, die <bold>“{{input}}”</bold> entsprechen.",
+   "try.different.name": "Versuchen Sie einen anderen Namen",
+   "check.the.category": "Überprüfen Sie die Kategorie",
+   "create.custom": "Erstellen Sie eine benutzerdefinierte Übung",
+   "or": "Oder"
 }
 
   

@@ -195,5 +195,13 @@
   "no.data.yet": "Aún no hay datos",
   "return.once.you.have.a.workout.finished": "Vuelve cuando hayas terminado un entrenamiento",
   "return.once.you.have.performed.this.exercise": "Vuelve cuando hayas realizado este ejercicio",
-  "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Vuelve cuando hayas realizado un ejercicio para este grupo muscular"
+  "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Vuelve cuando hayas realizado un ejercicio para este grupo muscular",
+  "no.exercise.found.in.category": "“{{input}}” no se encuentra en {{categoryName}}",
+  "no.exercise.found": "No se puede encontrar “{{input}}”",
+  "try.to.search.better.in.category": "No pudimos encontrar ejercicios que coincidan con <bold>“{{input}}”</bold> en la categoría <bold>{{categoryName}}</bold>.",
+  "try.to.search.better": "No pudimos encontrar ejercicios que coincidan con <bold>“{{input}}”</bold>.",
+  "try.different.name": "Prueba con otro nombre",
+  "check.the.category": "Verifica la categoría",
+  "create.custom": "Crear personalizado",
+  "or": "O"
 }

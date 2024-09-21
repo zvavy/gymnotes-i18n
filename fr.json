@@ -195,5 +195,13 @@
    "no.data.yet": "Pas encore de données",
    "return.once.you.have.a.workout.finished": "Revenez une fois que vous avez terminé un entraînement",
    "return.once.you.have.performed.this.exercise": "Revenez une fois que vous avez effectué cet exercice",
-   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Revenez une fois que vous avez effectué un exercice pour ce groupe musculaire"
+   "return.once.you.have.performed.an.exercise.for.this.muscle.group": "Revenez une fois que vous avez effectué un exercice pour ce groupe musculaire",
+   "no.exercise.found.in.category": "“{{input}}” n'est pas trouvé dans {{categoryName}}",
+   "no.exercise.found": "Impossible de trouver “{{input}}”",
+   "try.to.search.better.in.category": "Nous n'avons trouvé aucun exercice correspondant à <bold>“{{input}}”</bold> dans la catégorie <bold>{{categoryName}}</bold>.",
+   "try.to.search.better": "Nous n'avons trouvé aucun exercice correspondant à <bold>“{{input}}”</bold>.",
+   "try.different.name": "Essayez un autre nom",
+   "check.the.category": "Vérifiez la catégorie",
+   "create.custom": "Créer personnalisé",
+   "or": "Ou"
 }

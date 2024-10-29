@@ -203,5 +203,18 @@
    "try.different.name": "Try a different name",
    "check.the.category": "Check the category",
    "create.custom": "Create custom",
-   "or": "Or"
+   "or": "Or",
+  "set.timer": "Set Timer",
+  "distance": "Distance",
+  "weight": "Weight",
+  "bodyweight": "Bodyweight",
+  "save": "Save",
+  "rest.timer": "Rest Timer",
+  "start.timer": "Start Timer",
+  "next.set.notification.title": "💪 Time to Crush the Next Set!",
+  "next.set.notification.body": "⏱️ Rest is over! 🚀 Keep the momentum going – start your next set now and stay on track!"
+  "skip.timer": "Skip Timer",
+  "default.Time": "Default Time",
+  "sound": "Sound",
+  "vibration": "Vibration"
 }

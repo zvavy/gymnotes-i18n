@@ -216,6 +216,8 @@
   "skip.timer": "Salta timer",
   "default.Time": "Tempo predefinito",
   "sound": "Suono",
-  "vibration": "Vibrazione"
+  "vibration": "Vibrazione",
+     "active.display": "Display attivo",
+  "keeps.screen.on.during.workout": "Mantenere lo schermo acceso durante l'allenamento"
 
 }

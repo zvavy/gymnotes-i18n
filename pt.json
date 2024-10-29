@@ -216,5 +216,7 @@
   "skip.timer": "Pular temporizador",
   "default.Time": "Tempo padrão",
   "sound": "Som",
-  "vibration": "Vibração"
+  "vibration": "Vibração",
+     "active.display": "Tela ativa",
+  "keeps.screen.on.during.workout": "Manter a tela ligada durante o treino"
 }

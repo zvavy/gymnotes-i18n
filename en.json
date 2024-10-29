@@ -216,5 +216,7 @@
    "skip.timer": "Skip Timer",
    "default.Time": "Default Time",
    "sound": "Sound",
-   "vibration": "Vibration"
+   "vibration": "Vibration",
+   "active.display": "Active Display",
+   "keeps.screen.on.during.workout": "Keep screen on during workout"
 }

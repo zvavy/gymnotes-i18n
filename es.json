@@ -216,6 +216,7 @@
   "skip.timer": "Saltar temporizador",
   "default.Time": "Tiempo predeterminado",
   "sound": "Sonido",
-  "vibration": "Vibración"
-
+  "vibration": "Vibración",
+    "active.display": "Pantalla activa",
+  "keeps.screen.on.during.workout": "Mantener la pantalla encendida durante el entrenamiento"
 }

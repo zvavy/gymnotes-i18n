@@ -203,5 +203,19 @@
   "try.different.name": "Prueba con otro nombre",
   "check.the.category": "Verifica la categoría",
   "create.custom": "Crear personalizado",
-  "or": "O"
+  "or": "O",
+    "set.timer": "Configurar temporizador",
+  "distance": "Distancia",
+  "weight": "Peso",
+  "bodyweight": "Peso corporal",
+  "save": "Guardar",
+  "rest.timer": "Temporizador de descanso",
+  "start.timer": "Iniciar temporizador",
+  "next.set.notification.title": "💪 ¡Hora de la siguiente serie!",
+  "next.set.notification.body": "⏱️ El descanso ha terminado. 🚀 ¡Sigue así! Comienza tu próxima serie ahora.",
+  "skip.timer": "Saltar temporizador",
+  "default.Time": "Tiempo predeterminado",
+  "sound": "Sonido",
+  "vibration": "Vibración"
+
 }

@@ -203,5 +203,18 @@
    "try.different.name": "Essayez un autre nom",
    "check.the.category": "Vérifiez la catégorie",
    "create.custom": "Créer personnalisé",
-   "or": "Ou"
+   "or": "Ou",
+     "set.timer": "Régler le minuteur",
+  "distance": "Distance",
+  "weight": "Poids",
+  "bodyweight": "Poids corporel",
+  "save": "Enregistrer",
+  "rest.timer": "Minuteur de repos",
+  "start.timer": "Démarrer le minuteur",
+  "next.set.notification.title": "💪 C'est parti pour la prochaine série !",
+  "next.set.notification.body": "⏱️ Repos terminé ! 🚀 Continuez – commencez votre prochaine série maintenant !",
+  "skip.timer": "Passer le minuteur",
+  "default.Time": "Temps par défaut",
+  "sound": "Son",
+  "vibration": "Vibration"
 }

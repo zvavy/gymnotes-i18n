@@ -216,7 +216,9 @@
   "skip.timer": "Timer überspringen",
   "default.Time": "Standardzeit",
   "sound": "Ton",
-  "vibration": "Vibration"
+  "vibration": "Vibration",
+     "active.display": "Aktives Display",
+  "keeps.screen.on.during.workout": "Bildschirm während des Trainings anlassen"
 }
 
   

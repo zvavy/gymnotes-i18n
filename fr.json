@@ -216,5 +216,7 @@
   "skip.timer": "Passer le minuteur",
   "default.Time": "Temps par défaut",
   "sound": "Son",
-  "vibration": "Vibration"
+  "vibration": "Vibration",
+     "active.display": "Affichage actif",
+  "keeps.screen.on.during.workout": "Garder l'écran allumé pendant l'entraînement"
 }

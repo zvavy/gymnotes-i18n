@@ -203,7 +203,20 @@
    "try.different.name": "Versuchen Sie einen anderen Namen",
    "check.the.category": "Überprüfen Sie die Kategorie",
    "create.custom": "Erstellen Sie eine benutzerdefinierte Übung",
-   "or": "Oder"
+   "or": "Oder",
+     "set.timer": "Timer einstellen",
+  "distance": "Distanz",
+  "weight": "Gewicht",
+  "bodyweight": "Körpergewicht",
+  "save": "Speichern",
+  "rest.timer": "Ruhe-Timer",
+  "start.timer": "Timer starten",
+  "next.set.notification.title": "💪 Zeit für den nächsten Satz!",
+  "next.set.notification.body": "⏱️ Pause vorbei! 🚀 Weiter geht's – starte jetzt deinen nächsten Satz!",
+  "skip.timer": "Timer überspringen",
+  "default.Time": "Standardzeit",
+  "sound": "Ton",
+  "vibration": "Vibration"
 }
 
   

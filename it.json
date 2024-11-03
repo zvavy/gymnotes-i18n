@@ -211,13 +211,13 @@
   "save": "Salva",
   "rest.timer": "Timer di riposo",
   "start.timer": "Avvia timer",
-  "next.set.notification.title": "💪 È ora di iniziare la prossima serie!",
-  "next.set.notification.body": "⏱️ Riposo terminato! 🚀 Continua così – inizia subito la tua prossima serie!",
   "skip.timer": "Salta timer",
   "default.Time": "Tempo predefinito",
   "sound": "Suono",
   "vibration": "Vibrazione",
      "active.display": "Display attivo",
-  "keeps.screen.on.during.workout": "Mantenere lo schermo acceso durante l'allenamento"
-
+  "keeps.screen.on.during.workout": "Mantenere lo schermo acceso durante l'allenamento",
+  "next.set.notification.title": "⏱️ Riposo terminato!",
+  "next.set.notification.body": "Torna e dai il massimo nel tuo allenamento 💪",
+  "adjust.duration": "Regola la durata con i pulsanti +/-"
 }

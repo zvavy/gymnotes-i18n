@@ -211,12 +211,13 @@
   "save": "Enregistrer",
   "rest.timer": "Minuteur de repos",
   "start.timer": "Démarrer le minuteur",
-  "next.set.notification.title": "💪 C'est parti pour la prochaine série !",
-  "next.set.notification.body": "⏱️ Repos terminé ! 🚀 Continuez – commencez votre prochaine série maintenant !",
   "skip.timer": "Passer le minuteur",
   "default.Time": "Temps par défaut",
   "sound": "Son",
   "vibration": "Vibration",
      "active.display": "Affichage actif",
-  "keeps.screen.on.during.workout": "Garder l'écran allumé pendant l'entraînement"
+  "keeps.screen.on.during.workout": "Garder l'écran allumé pendant l'entraînement",
+   "next.set.notification.title": "⏱️ Repos terminé!",
+  "next.set.notification.body": "Retournez et écrasez votre entraînement 💪",
+  "adjust.duration": "Ajustez la durée avec les boutons +/-"
 }

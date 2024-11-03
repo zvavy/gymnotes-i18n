@@ -211,12 +211,13 @@
   "save": "Salvar",
   "rest.timer": "Cronômetro de descanso",
   "start.timer": "Iniciar temporizador",
-  "next.set.notification.title": "💪 Hora de começar a próxima série!",
-  "next.set.notification.body": "⏱️ O descanso acabou! 🚀 Continue – comece sua próxima série agora!",
   "skip.timer": "Pular temporizador",
   "default.Time": "Tempo padrão",
   "sound": "Som",
   "vibration": "Vibração",
      "active.display": "Tela ativa",
-  "keeps.screen.on.during.workout": "Manter a tela ligada durante o treino"
+  "keeps.screen.on.during.workout": "Manter a tela ligada durante o treino",
+     "next.set.notification.title": "⏱️ Descanso acabou!",
+  "next.set.notification.body": "Volte e domine o treino 💪",
+  "adjust.duration": "Ajuste a duração com os botões +/-"
 }

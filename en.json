@@ -211,12 +211,13 @@
    "save": "Save",
    "rest.timer": "Rest Timer",
    "start.timer": "Start Timer",
-   "next.set.notification.title": "💪 Time to Crush the Next Set!",
-   "next.set.notification.body": "⏱️ Rest is over! 🚀 Keep the momentum going – start your next set now and stay on track!",
+   "next.set.notification.title": "⏱️ Rest is over!",
+   "next.set.notification.body": "Go back and crush your workout 💪",
    "skip.timer": "Skip Timer",
    "default.Time": "Default Time",
    "sound": "Sound",
    "vibration": "Vibration",
    "active.display": "Active Display",
-   "keeps.screen.on.during.workout": "Keep screen on during workout"
+   "keeps.screen.on.during.workout": "Keep screen on during workout",
+   "adjust.duration": "Adjust duration using the +/- buttons"
 }

@@ -204,7 +204,7 @@
   "check.the.category": "Verifica la categoría",
   "create.custom": "Crear personalizado",
   "or": "O",
-    "set.timer": "Configurar temporizador",
+  "set.timer": "Configurar temporizador",
   "distance": "Distancia",
   "weight": "Peso",
   "bodyweight": "Peso corporal",
@@ -215,9 +215,10 @@
   "default.Time": "Tiempo predeterminado",
   "sound": "Sonido",
   "vibration": "Vibración",
-    "active.display": "Pantalla activa",
+  "active.display": "Pantalla activa",
   "keeps.screen.on.during.workout": "Mantener la pantalla encendida durante el entrenamiento",
   "next.set.notification.title": "⏱️ ¡Descanso terminado!",
   "next.set.notification.body": "Vuelve y aplasta tu entrenamiento 💪",
-  "adjust.duration": "Ajusta la duración con los botones +/-"
+  "adjust.duration": "Ajusta la duración con los botones +/-",
+  "app.version": "Versión app"
 }

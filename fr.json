@@ -1,5 +1,5 @@
 {
-  "complete.workout.warning": "S'il vous plaît, complétez quelques séries avant de terminer l'entraînement.",
+  "complete.workout.warning": "Veuillez terminer au moins une série avant de terminer votre entraînement en appuyant sur l'icône de case à cocher (✅) à la fin de la série.",
   "finish": "Terminer",
   "add.exercise": "Ajouter un exercice",
   "discard.workout": "Abandonner l'entraînement",

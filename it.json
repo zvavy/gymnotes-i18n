@@ -1,5 +1,5 @@
 {
-  "complete.workout.warning": "Per favore, completa una serie prima di terminare l'allenamento.",
+  "complete.workout.warning": "Per favore, completa almeno una serie prima di terminare l'allenamento premendo l'icona della casella di controllo (✅) alla fine della serie.",
   "finish": "Termina",
   "add.exercise": "Aggiungi Esercizio",
   "discard.workout": "Annulla Allenamento",

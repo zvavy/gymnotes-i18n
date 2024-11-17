@@ -1,5 +1,5 @@
 {
-  "complete.workout.warning": "Bitte, schließe einige Sätze ab, bevor du das Training beendest.",
+  "complete.workout.warning": "Bitte beende dein Workout erst, nachdem du mindestens einen Satz abgeschlossen hast. Drücke dazu auf das Kontrollkästchen-Symbol (✅) am Ende des Satzes.",
   "finish": "Beenden",
   "add.exercise": "Übung hinzufügen",
   "discard.workout": "Training verwerfen",

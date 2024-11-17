@@ -220,5 +220,21 @@
   "next.set.notification.title": "⏱️ Pause ist vorbei!",
   "next.set.notification.body": "Zurück zum Workout und gib alles 💪",
   "adjust.duration": "Dauer mit den +/- Tasten anpassen",
-  "app.version": "App-Version"
+  "app.version": "App-Version",
+  "any": "Beliebig",
+  "monday": "Montag",
+  "tuesday": "Dienstag",
+  "wednesday": "Mittwoch",
+  "thursday": "Donnerstag",
+  "friday": "Freitag",
+  "saturday": "Samstag",
+  "sunday": "Sonntag",
+  "any.short": "Bel",
+  "monday.short": "Mo",
+  "tuesday.short": "Di",
+  "wednesday.short": "Mi",
+  "thursday.short": "Do",
+  "friday.short": "Fr",
+  "saturday.short": "Sa",
+  "sunday.short": "So"
 }

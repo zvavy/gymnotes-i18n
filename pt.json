@@ -220,5 +220,21 @@
   "next.set.notification.title": "⏱️ Descanso acabou!",
   "next.set.notification.body": "Volte e domine o treino 💪",
   "adjust.duration": "Ajuste a duração com os botões +/-",
-  "app.version": "Versão do aplicativo"
+  "app.version": "Versão do aplicativo",
+  "any": "Qualquer",
+  "monday": "Segunda-feira",
+  "tuesday": "Terça-feira",
+  "wednesday": "Quarta-feira",
+  "thursday": "Quinta-feira",
+  "friday": "Sexta-feira",
+  "saturday": "Sábado",
+  "sunday": "Domingo",
+  "any.short": "Qua",
+  "monday.short": "Seg",
+  "tuesday.short": "Ter",
+  "wednesday.short": "Qua",
+  "thursday.short": "Qui",
+  "friday.short": "Sex",
+  "saturday.short": "Sáb",
+  "sunday.short": "Dom"
 }

@@ -220,5 +220,21 @@
   "active.display": "Active Display",
   "keeps.screen.on.during.workout": "Keep screen on during workout",
   "adjust.duration": "Adjust duration using the +/- buttons",
-  "app.version": "App Version"
+  "app.version": "App Version",
+  "any": "Any",
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "any.short": "Any",
+  "monday.short": "Mon",
+  "tuesday.short": "Tue",
+  "wednesday.short": "Wed",
+  "thursday.short": "Thu",
+  "friday.short": "Fri",
+  "saturday.short": "Sat",
+  "sunday.short": "Sun"
 }

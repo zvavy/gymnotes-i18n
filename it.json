@@ -220,5 +220,21 @@
   "next.set.notification.title": "⏱️ Riposo terminato!",
   "next.set.notification.body": "Torna e dai il massimo nel tuo allenamento 💪",
   "adjust.duration": "Regola la durata con i pulsanti +/-",
-  "app.version": "Versione App"
+  "app.version": "Versione App",
+  "any": "Qualsiasi",
+  "monday": "Lunedì",
+  "tuesday": "Martedì",
+  "wednesday": "Mercoledì",
+  "thursday": "Giovedì",
+  "friday": "Venerdì",
+  "saturday": "Sabato",
+  "sunday": "Domenica",
+  "any.short": "Qua",
+  "monday.short": "Lun",
+  "tuesday.short": "Mar",
+  "wednesday.short": "Mer",
+  "thursday.short": "Gio",
+  "friday.short": "Ven",
+  "saturday.short": "Sab",
+  "sunday.short": "Dom"
 }

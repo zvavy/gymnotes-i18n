@@ -1,5 +1,5 @@
 {
-  "complete.workout.warning": "Please, complete some sets before finishing the workout.",
+  "complete.workout.warning": "Please complete at least one set before finishing your workout by pressing the checkbox icon (✅) at the end of the set.",
   "finish": "Finish",
   "add.exercise": "Add Exercise",
   "discard.workout": "Discard Workout",

@@ -236,5 +236,16 @@
   "thursday.short": "Jeu",
   "friday.short": "Ven",
   "saturday.short": "Sam",
-  "sunday.short": "Dim"
+  "sunday.short": "Dim",
+  "Add.Day": "Ajouter un jour",
+  "Create.your.first.Routine.description": "Inutile de recommencer votre entraînement à zéro à chaque fois. Créez vos routines (par exemple, Poitrine et Biceps) une fois et réutilisez-les pour chaque séance.",
+  "start": "Commencer",
+  "optional": "Optionnel",
+  "weekday": "Jour de la semaine",
+  "Routine.name": "Nom de la routine",
+  "Choose.Weekday": "Choisir un jour de la semaine",
+  "Create.your.first.Routine.Start.Description": "Inutile de recommencer votre entraînement à zéro à chaque fois. Créez vos routines (par exemple, Poitrine et Biceps) une fois et réutilisez-les pour chaque séance.",
+  "Add.Routine": "Ajouter une routine",
+  "Create.your.first.Routine": "Créez votre première routine",
+  "routines": "Routines"
 }

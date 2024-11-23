@@ -236,5 +236,16 @@
   "thursday.short": "Qui",
   "friday.short": "Sex",
   "saturday.short": "Sáb",
-  "sunday.short": "Dom"
+  "sunday.short": "Dom",
+  "Add.Day": "Adicionar Dia",
+  "Create.your.first.Routine.description": "Não é necessário começar o seu treino do zero a cada vez. Crie suas rotinas (ex.: Peito e Bíceps) uma vez e reutilize-as em cada sessão.",
+  "start": "Iniciar",
+  "optional": "Opcional",
+  "weekday": "Dia da semana",
+  "Routine.name": "Nome da rotina",
+  "Choose.Weekday": "Escolha o dia da semana",
+  "Create.your.first.Routine.Start.Description": "Não é necessário começar o seu treino do zero a cada vez. Crie suas rotinas (ex.: Peito e Bíceps) uma vez e reutilize-as em cada sessão.",
+  "Add.Routine": "Adicionar rotina",
+  "Create.your.first.Routine": "Crie sua primeira rotina",
+  "routines": "Rotinas"
 }

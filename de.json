@@ -236,5 +236,16 @@
   "thursday.short": "Do",
   "friday.short": "Fr",
   "saturday.short": "Sa",
-  "sunday.short": "So"
+  "sunday.short": "So",
+  "Add.Day": "Tag hinzufügen",
+  "Create.your.first.Routine.description": "Es ist nicht nötig, jedes Mal dein Training von Grund auf neu zu beginnen. Erstelle deine Routinen (z. B. Brust und Bizeps) einmal und nutze sie für jede Sitzung wieder.",
+  "start": "Start",
+  "optional": "Optional",
+  "weekday": "Wochentag",
+  "Routine.name": "Routinenname",
+  "Choose.Weekday": "Wochentag auswählen",
+  "Create.your.first.Routine.Start.Description": "Es ist nicht nötig, jedes Mal dein Training von Grund auf neu zu beginnen. Erstelle deine Routinen (z. B. Brust und Bizeps) einmal und nutze sie für jede Sitzung wieder.",
+  "Add.Routine": "Routine hinzufügen",
+  "Create.your.first.Routine": "Erstelle deine erste Routine",
+  "routines": "Routinen"
 }

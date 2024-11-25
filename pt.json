@@ -249,5 +249,7 @@
   "Create.your.first.Routine": "Crie sua primeira rotina",
   "routines": "Rotinas",
   "edit": "Editar",
-  "create": "Criar"
+  "create": "Criar",
+  "Add.exercises.to.your.routine": "Adicione exercício à sua rotina",
+  "Add.exercises.to.your.routine.description":"é criado. Agora, clique em ‘Adicionar Exercícios’ para completar a sua Rotina."
 }

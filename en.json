@@ -251,5 +251,14 @@
   "edit": "Edit",
   "create": "Create",
   "Add.exercises.to.your.routine": "Add exercises to your routine",
-  "Add.exercises.to.your.routine.description":"is created. Now, click on 'Add Exercises' to complete your Routine."
+  "Add.exercises.to.your.routine.description": "is created. Now, click on 'Add Exercises' to complete your Routine.",
+  "subscription": "Subscription",
+  "current.subscription": "Current Subscription",
+  "next.payment.on": "Next payment on {{date}}",
+  "cancel.subscription": "Cancel Subscription",
+  "lifetime.subscription": "Lifetime Subscription",
+  "monthly.subscription": "Monthly Subscription",
+  "yearly.subscription": "Yearly Subscription",
+  "cancel.subscription.confirmation": "Are you sure you want to cancel your subscription?",
+  "cancel.subscription.confirmation.description": "You will lose access to GymNotes PRO features and your subscription will be canceled immediately."
 }

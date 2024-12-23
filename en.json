@@ -275,5 +275,6 @@
   "measure": "Measure",
   "body.measure.title": "Body Measurements",
   "body.measure.subTitle": "Log key body stats such as chest, waist, hips, and biceps.",
-  "body.measure.footerText": "Great things are on the way. Stay tuned and keep crushing your workouts!"
+  "body.measure.footerText.line1": "Great things are on the way",
+  "body.measure.footerText.line2": "Stay tuned and keep crushing your workouts!"
 }

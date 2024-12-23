@@ -272,5 +272,8 @@
   "weight_loss": "Weight Loss",
   "stretching": "Stretching",
   "history": "History",
-  "measure": "Measure"
+  "measure": "Measure",
+  "body.measure.title": "Body Measurements",
+  "body.measure.subTitle": "Log key body stats such as chest, waist, hips, and biceps.",
+  "body.measure.footerText": "Great things are on the way. Stay tuned and keep crushing your workouts!"
 }

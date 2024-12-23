@@ -275,5 +275,12 @@
   "measure": "Medir",
   "body.measure.title": "Medidas Corporales",
   "body.measure.subTitle": "Registra medidas clave del cuerpo como pecho, cintura, caderas y bíceps.",
-  "body.measure.footerText": "Grandes cosas están en camino. ¡Sigue atento y sigue dándolo todo en tus entrenamientos!"
+  "body.measure.footerText": "Grandes cosas están en camino. ¡Sigue atento y sigue dándolo todo en tus entrenamientos!",
+  "bench.press,dumbbell.curls": "Press de banca, Curl con mancuernas",
+  "pullups,sit.ups,burpees": "Dominadas, Abdominales, Burpees",
+  "weighted.bodyweight": "Peso corporal con carga",
+  "weighted.pull.ups,weighted.dips": "Dominadas con peso, Fondos con peso",
+  "planks,yoga,stretching": "Planchas, Yoga, Estiramiento",
+  "running,cycling,rowing": "Correr, Ciclismo, Remo",
+  "farmers.walk,suitcase.carry": "Farmers Walk, Suitcase Carry"
 }

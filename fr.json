@@ -275,5 +275,12 @@
   "measure": "Mesurer",
   "body.measure.title": "Mensurations corporelles",
   "body.measure.subTitle": "Enregistrez les données clés de votre corps comme le tour de poitrine, la taille, les hanches et les biceps.",
-  "body.measure.footerText": "De grandes choses arrivent. Restez à l'écoute et continuez à tout donner dans vos entraînements !"
+  "body.measure.footerText": "De grandes choses arrivent. Restez à l'écoute et continuez à tout donner dans vos entraînements !",
+  "bench.press,dumbbell.curls": "Développé couché, Curl haltères",
+  "pullups,sit.ups,burpees": "Tractions, Sit-ups, Burpees",
+  "weighted.bodyweight": "Poids corporel avec charge",
+  "weighted.pull.ups,weighted.dips": "Tractions lestées, Dips lestés",
+  "planks,yoga,stretching": "Planches, Yoga, Étirement",
+  "running,cycling,rowing": "Course, Vélo, Aviron",
+  "farmers.walk,suitcase.carry": "Farmers Walk, Suitcase Carry"
 }

@@ -275,5 +275,12 @@
   "measure": "Misurare",
   "body.measure.title": "Misurazioni del Corpo",
   "body.measure.subTitle": "Registra le principali misure del corpo come petto, vita, fianchi e bicipiti.",
-  "body.measure.footerText": "Grandi novità in arrivo. Rimani sintonizzato e continua a dare il massimo nei tuoi allenamenti!"
+  "body.measure.footerText": "Grandi novità in arrivo. Rimani sintonizzato e continua a dare il massimo nei tuoi allenamenti!",
+  "bench.press,dumbbell.curls": "Panca piana, Curl con manubri",
+  "pullups,sit.ups,burpees": "Trazioni, Addominali, Burpees",
+  "weighted.bodyweight": "Peso corporeo aggiuntivo",
+  "weighted.pull.ups,weighted.dips": "Trazioni zavorrate, Dips zavorrati",
+  "planks,yoga,stretching": "Plank, Yoga, Stretching",
+  "running,cycling,rowing": "Corsa, Ciclismo, Vogatore",
+  "farmers.walk,suitcase.carry": "Farmers Walk, Suitcase Carry"
 }

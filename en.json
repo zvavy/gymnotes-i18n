@@ -275,5 +275,12 @@
   "measure": "Measure",
   "body.measure.title": "Body Measurements",
   "body.measure.subTitle": "Log key body stats such as chest, waist, hips, and biceps.",
-  "body.measure.footerText": "Great things are on the way. Stay tuned and keep crushing your workouts!"
+  "body.measure.footerText": "Great things are on the way. Stay tuned and keep crushing your workouts!",
+  "bench.press,dumbbell.curls": "Bench Press, Dumbbell Curls",
+  "pullups,sit.ups,burpees": "Pullups, Situps, Burpees",
+  "weighted.bodyweight": "Weighted Bodyweight",
+  "weighted.pull.ups,weighted.dips": "Weighted Pullups, Weighted Dips",
+  "planks,yoga,stretching": "Planks, Yoga, Stretching",
+  "running,cycling,rowing": "Running, Cycling, Rowing",
+  "farmers.walk,suitcase.carry": "Farmers Walk, Suitcase Carry"
 }

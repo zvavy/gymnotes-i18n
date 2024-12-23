@@ -275,5 +275,12 @@
   "measure": "Messen",
   "body.measure.title": "Körpermaße",
   "body.measure.subTitle": "Protokollieren Sie wichtige Körperwerte wie Brust, Taille, Hüfte und Bizeps.",
-  "body.measure.footerText": "Großartige Dinge sind unterwegs. Bleiben Sie dran und geben Sie weiterhin Ihr Bestes im Training!"
+  "body.measure.footerText": "Großartige Dinge sind unterwegs. Bleiben Sie dran und geben Sie weiterhin Ihr Bestes im Training!",
+  "bench.press,dumbbell.curls": "Bankdrücken, Kurzhantel-Curls",
+  "pullups,sit.ups,burpees": "Klimmzüge, Sit-ups, Burpees",
+  "weighted.bodyweight": "Gewichtetes Körpergewicht",
+  "weighted.pull.ups,weighted.dips": "Gewichtete Klimmzüge, Gewichtete Dips",
+  "planks,yoga,stretching": "Planks, Yoga, Dehnen",
+  "running,cycling,rowing": "Laufen, Radfahren, Rudern",
+  "farmers.walk,suitcase.carry": "Farmers Walk, Suitcase Carry"
 }

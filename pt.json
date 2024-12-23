@@ -275,5 +275,12 @@
   "measure": "Medir",
   "body.measure.title": "Medições Corporais",
   "body.measure.subTitle": "Registre estatísticas corporais importantes como peito, cintura, quadris e bíceps.",
-  "body.measure.footerText": "Grandes coisas estão por vir. Fique atento e continue arrasando nos seus treinos!"
+  "body.measure.footerText": "Grandes coisas estão por vir. Fique atento e continue arrasando nos seus treinos!",
+  "bench.press,dumbbell.curls": "Supino, Rosca com Halteres",
+  "pullups,sit.ups,burpees": "Barra fixa, Abdominais, Burpees",
+  "weighted.bodyweight": "Peso corporal com carga",
+  "weighted.pull.ups,weighted.dips": "Barra fixa com peso, Paralelas com peso",
+  "planks,yoga,stretching": "Pranchas, Yoga, Alongamento",
+  "running,cycling,rowing": "Corrida, Ciclismo, Remo",
+  "farmers.walk,suitcase.carry": "Farmers Walk, Suitcase Carry"
 }

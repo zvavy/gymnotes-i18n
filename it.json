@@ -272,5 +272,9 @@
   "weight_loss": "Perdita di peso",
   "stretching": "Stretching",
   "history": "Cronologia",
-  "measure": "Misurare"
+  "measure": "Misurare",
+  "body.measure.title": "Misurazioni del Corpo",
+  "body.measure.subTitle": "Registra le principali misure del corpo come petto, vita, fianchi e bicipiti.",
+  "body.measure.footerText.line1": "Grandi novità in arrivo",
+  "body.measure.footerText.line2": "Rimani sintonizzato e continua a dare il massimo nei tuoi allenamenti!"
 }

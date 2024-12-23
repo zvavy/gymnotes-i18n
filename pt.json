@@ -272,5 +272,9 @@
   "weight_loss": "Perda de peso",
   "stretching": "Alongamento",
   "history": "Histórico",
-  "measure": "Medir"
+  "measure": "Medir",
+  "body.measure.title": "Medições Corporais",
+  "body.measure.subTitle": "Registre estatísticas corporais importantes como peito, cintura, quadris e bíceps.",
+  "body.measure.footerText.line1": "Grandes coisas estão por vir",
+  "body.measure.footerText.line2": "Fique atento e continue arrasando nos seus treinos!"
 }

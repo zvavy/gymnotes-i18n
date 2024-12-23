@@ -260,5 +260,17 @@
   "monthly.subscription": "Monthly Subscription",
   "yearly.subscription": "Yearly Subscription",
   "cancel.subscription.confirmation": "Are you sure you want to cancel your subscription?",
-  "cancel.subscription.confirmation.description": "You will lose access to GymNotes PRO features and your subscription will be canceled immediately."
+  "cancel.subscription.confirmation.description": "You will lose access to GymNotes PRO features and your subscription will be canceled immediately.",
+  "delete.routine": "Delete Routine",
+  "delete.routine.confirmation": "Are you sure you want to delete this routine?",
+  "rename": "Rename",
+  "duplicate": "Duplicate",
+  "my.routines": "My Routines",
+  "explore.routines": "Explore Routines",
+  "quick.start": "Quick Start",
+  "hypertrophy": "Hypertrophy",
+  "weight_loss": "Weight Loss",
+  "stretching": "Stretching",
+  "history": "History",
+  "measure": "Measure"
 }

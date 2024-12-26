@@ -302,5 +302,11 @@
   "slide.statistics.title": "Detailed Statistics",
   "slide.statistics.description": "Track your progress to optimize your training Free limit: 1 Month stats",
   "slide.repeatWorkouts.title": "Repeat Workouts",
-  "slide.repeatWorkouts.description": "Repeat any session anytime. Free limit: Workouts within 30 days."
+  "slide.repeatWorkouts.description": "Repeat any session anytime. Free limit: Workouts within 30 days.",
+  "exclusive.routines": "Exclusive Routines",
+  "unlimited.custom.routines": "Unlimited Custom Routines",
+  "upgrade": "Upgrade",
+  "repeat.workouts.restriction.message": "Repeat workouts from the last 30 days – upgrade for full access!",
+  "remaining.exercises": "{{ count }} free exercises remaining",
+  "free.routines.remaining": "{{ remaining }} free routines remaining"
 }

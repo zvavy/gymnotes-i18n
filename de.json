@@ -302,5 +302,11 @@
   "slide.statistics.title": "Detaillierte Statistiken",
   "slide.statistics.description": "Verfolge deinen Fortschritt, um dein Training zu optimieren. Kostenloses Limit: 1 Monat Statistiken.",
   "slide.repeatWorkouts.title": "Workouts wiederholen",
-  "slide.repeatWorkouts.description": "Wiederhole jede Sitzung jederzeit. Kostenloses Limit: Workouts innerhalb von 30 Tagen."
+  "slide.repeatWorkouts.description": "Wiederhole jede Sitzung jederzeit. Kostenloses Limit: Workouts innerhalb von 30 Tagen.",
+  "exclusive.routines": "Exklusive Routinen",
+  "unlimited.custom.routines": "Unbegrenzte benutzerdefinierte Routinen",
+  "upgrade": "Upgrade",
+  "repeat.workouts.restriction.message": "Wiederhole Workouts aus den letzten 30 Tagen – upgrade für vollen Zugriff!",
+  "remaining.exercises": "{{ count }} kostenlose Übungen verbleibend",
+  "free.routines.remaining": "{{ remaining }} kostenlose Routinen verbleibend"
 }

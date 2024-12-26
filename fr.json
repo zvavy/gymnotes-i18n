@@ -302,5 +302,11 @@
   "slide.statistics.title": "Statistiques détaillées",
   "slide.statistics.description": "Suivez vos progrès pour optimiser votre entraînement. Limite gratuite : Statistiques de 1 mois.",
   "slide.repeatWorkouts.title": "Répéter les entraînements",
-  "slide.repeatWorkouts.description": "Répétez n'importe quelle session à tout moment. Limite gratuite : Entraînements dans les 30 derniers jours."
+  "slide.repeatWorkouts.description": "Répétez n'importe quelle session à tout moment. Limite gratuite : Entraînements dans les 30 derniers jours.",
+  "exclusive.routines": "Routines exclusives",
+  "unlimited.custom.routines": "Routines personnalisées illimitées",
+  "upgrade": "Mettre à niveau",
+  "repeat.workouts.restriction.message": "Répétez les entraînements des 30 derniers jours – mettez à niveau pour un accès complet !",
+  "remaining.exercises": "{{ count }} exercices gratuits restants",
+  "free.routines.remaining": "{{ remaining }} routines gratuites restantes"
 }

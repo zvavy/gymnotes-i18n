@@ -308,5 +308,6 @@
   "upgrade": "Atualizar",
   "repeat.workouts.restriction.message": "Repita treinos dos últimos 30 dias – atualize para acesso completo!",
   "remaining.exercises": "{{ count }} exercícios gratuitos restantes",
-  "free.routines.remaining": "{{ remaining }} rotinas gratuitas restantes"
+  "free.routines.remaining": "{{ remaining }} rotinas gratuitas restantes",
+  "upgrade.exclusiveRoutines.description": "As contas gratuitas podem acessar apenas {{ limit }} rotinas exclusivas. Atualize para GymNotes Pro para desbloquear todas as rotinas exclusivas!"
 }

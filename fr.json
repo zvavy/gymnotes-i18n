@@ -309,5 +309,8 @@
   "repeat.workouts.restriction.message": "Répétez les entraînements des 30 derniers jours – mettez à niveau pour un accès complet !",
   "remaining.exercises": "{{ count }} exercices gratuits restants",
   "free.routines.remaining": "{{ remaining }} routines gratuites restantes",
-  "upgrade.exclusiveRoutines.description": "Les comptes gratuits peuvent accéder uniquement à {{ limit }} routines exclusives. Passez à GymNotes Pro pour débloquer toutes les routines exclusives !"
+  "upgrade.exclusiveRoutines.description": "Les comptes gratuits peuvent accéder uniquement à {{ limit }} routines exclusives. Passez à GymNotes Pro pour débloquer toutes les routines exclusives !",
+  "billed.monthly": "Facturé mensuellement",
+  "billed.annually": "Facturé annuellement",
+  "pay.once": "Payer une fois"
 }

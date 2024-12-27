@@ -309,5 +309,8 @@
   "repeat.workouts.restriction.message": "Wiederhole Workouts aus den letzten 30 Tagen – upgrade für vollen Zugriff!",
   "remaining.exercises": "{{ count }} kostenlose Übungen verbleibend",
   "free.routines.remaining": "{{ remaining }} kostenlose Routinen verbleibend",
-  "upgrade.exclusiveRoutines.description": "Kostenlose Konten können nur {{ limit }} exklusive Routinen nutzen. Upgrade auf GymNotes Pro, um alle exklusiven Routinen freizuschalten!"
+  "upgrade.exclusiveRoutines.description": "Kostenlose Konten können nur {{ limit }} exklusive Routinen nutzen. Upgrade auf GymNotes Pro, um alle exklusiven Routinen freizuschalten!",
+  "billed.monthly": "Monatlich abgerechnet",
+  "billed.annually": "Jährlich abgerechnet",
+  "pay.once": "Einmalig zahlen"
 }

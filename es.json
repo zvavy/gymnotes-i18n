@@ -309,5 +309,8 @@
   "repeat.workouts.restriction.message": "Repite entrenamientos de los últimos 30 días: ¡actualiza para acceso completo!",
   "remaining.exercises": "{{ count }} ejercicios gratuitos restantes",
   "free.routines.remaining": "{{ remaining }} rutinas gratuitas restantes",
-  "upgrade.exclusiveRoutines.description": "Las cuentas gratuitas solo pueden acceder a {{ limit }} rutinas exclusivas. ¡Actualiza a GymNotes Pro para desbloquear todas las rutinas exclusivas!"
+  "upgrade.exclusiveRoutines.description": "Las cuentas gratuitas solo pueden acceder a {{ limit }} rutinas exclusivas. ¡Actualiza a GymNotes Pro para desbloquear todas las rutinas exclusivas!",
+  "billed.monthly": "Facturado mensualmente",
+  "billed.annually": "Facturado anualmente",
+  "pay.once": "Pagar una vez"
 }

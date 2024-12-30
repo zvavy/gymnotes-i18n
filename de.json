@@ -312,5 +312,7 @@
   "upgrade.exclusiveRoutines.description": "Kostenlose Konten können nur {{ limit }} exklusive Routinen nutzen. Upgrade auf GymNotes Pro, um alle exklusiven Routinen freizuschalten!",
   "billed.monthly": "Monatlich abgerechnet",
   "billed.annually": "Jährlich abgerechnet",
-  "pay.once": "Einmalig zahlen"
+  "pay.once": "Einmalig zahlen",
+  "unlimited.repeat.workouts": "Unbegrenztes \"Workouts wiederholen\"",
+  "limited.days": "{{ limit }} Tage"
 }

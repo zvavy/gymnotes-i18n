@@ -312,5 +312,7 @@
   "upgrade.exclusiveRoutines.description": "Les comptes gratuits peuvent accéder uniquement à {{ limit }} routines exclusives. Passez à GymNotes Pro pour débloquer toutes les routines exclusives !",
   "billed.monthly": "Facturé mensuellement",
   "billed.annually": "Facturé annuellement",
-  "pay.once": "Payer une fois"
+  "pay.once": "Payer une fois",
+  "unlimited.repeat.workouts": "\"Répéter les entraînements\" illimité",
+  "limited.days": "{{ limit }} jours"
 }

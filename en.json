@@ -315,5 +315,9 @@
   "billed.annually": "Billed Annually",
   "pay.once": "Pay Once",
   "unlimited.repeat.workouts": "Unlimited \"Repeat Workouts\"",
-  "limited.days": "{{ limit }} days"
+  "limited.days": "{{ limit }} days",
+  "delete.workout": "Delete Workout",
+  "delete.workout.question": "Are you sure you want to delete this workout?",
+  "cancel.workout": "Cancel Workout",
+  "cancel.workout.question": "Are you sure you want to cancel this workout?"
 }

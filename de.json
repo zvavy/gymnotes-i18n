@@ -315,5 +315,9 @@
   "billed.annually": "Jährlich abgerechnet",
   "pay.once": "Einmalig zahlen",
   "unlimited.repeat.workouts": "Unbegrenztes \"Workouts wiederholen\"",
-  "limited.days": "{{ limit }} Tage"
+  "limited.days": "{{ limit }} Tage",
+  "delete.workout": "Workout löschen",
+  "delete.workout.question": "Bist du sicher, dass du dieses Workout löschen möchtest?",
+  "cancel.workout": "Workout abbrechen",
+  "cancel.workout.question": "Bist du sicher, dass du dieses Workout abbrechen möchtest?"
 }

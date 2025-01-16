@@ -315,5 +315,9 @@
   "billed.annually": "Facturé annuellement",
   "pay.once": "Payer une fois",
   "unlimited.repeat.workouts": "\"Répéter les entraînements\" illimité",
-  "limited.days": "{{ limit }} jours"
+  "limited.days": "{{ limit }} jours",
+  "delete.workout": "Supprimer l'entraînement",
+  "delete.workout.question": "Êtes-vous sûr de vouloir supprimer cet entraînement ?",
+  "cancel.workout": "Annuler l'entraînement",
+  "cancel.workout.question": "Êtes-vous sûr de vouloir annuler cet entraînement ?"
 }

@@ -320,5 +320,7 @@
   "delete.workout.question": "Are you sure you want to delete this workout?",
   "cancel.workout": "Cancel Workout",
   "cancel.workout.question": "Are you sure you want to cancel this workout?",
-  "quick.workout": "Quick Workout"
+  "quick.workout": "Quick Workout",
+  "yes": "Yes",
+  "no": "No"
 }

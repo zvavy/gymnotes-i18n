@@ -319,5 +319,6 @@
   "delete.workout": "Elimina allenamento",
   "delete.workout.question": "Sei sicuro di voler eliminare questo allenamento?",
   "cancel.workout": "Annulla allenamento",
-  "cancel.workout.question": "Sei sicuro di voler annullare questo allenamento?"
+  "cancel.workout.question": "Sei sicuro di voler annullare questo allenamento?",
+  "quick.workout": "Allenamento veloce"
 }

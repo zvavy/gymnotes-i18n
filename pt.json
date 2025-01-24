@@ -322,5 +322,11 @@
   "cancel.workout.question": "Tem certeza de que deseja cancelar este treino?",
   "quick.workout": "Treino rápido",
   "yes": "Sim",
-  "no": "Não"
+  "no": "Não",
+  "morning.workout": "Movimento matinal",
+  "midday.workout": "Energia do meio-dia",
+  "afternoon.hustle": "Impulso da tarde",
+  "evening.grind": "Força noturna",
+  "night.owl.session": "Sessão do corujão",
+  "midnight.burn": "Queima da meia-noite"
 }

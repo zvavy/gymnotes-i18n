@@ -322,5 +322,11 @@
   "cancel.workout.question": "Bist du sicher, dass du dieses Workout abbrechen möchtest?",
   "quick.workout": "Schnelles Workout",
   "yes": "Ja",
-  "no": "Nein"
+  "no": "Nein",
+  "morning.workout": "Morgen-Motivation",
+  "midday.workout": "Mittags-Power-Session",
+  "afternoon.hustle": "Nachmittags-Schub",
+  "evening.grind": "Abend-Kraftakt",
+  "night.owl.session": "Nachtaktive Einheit",
+  "midnight.burn": "Mitternachts-Burnout"
 }

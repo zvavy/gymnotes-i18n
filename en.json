@@ -322,5 +322,11 @@
   "cancel.workout.question": "Are you sure you want to cancel this workout?",
   "quick.workout": "Quick Workout",
   "yes": "Yes",
-  "no": "No"
+  "no": "No",
+  "morning.workout": "Morning Workout",
+  "midday.workout": "Midday Workout",
+  "afternoon.hustle": "Afternoon Hustle",
+  "evening.grind": "Evening Grind",
+  "night.owl.session": "Night Owl Session",
+  "midnight.burn": "Midnight Burn"
 }

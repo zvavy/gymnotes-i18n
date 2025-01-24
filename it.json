@@ -322,5 +322,11 @@
   "cancel.workout.question": "Sei sicuro di voler annullare questo allenamento?",
   "quick.workout": "Allenamento veloce",
   "yes": "Sì",
-  "no": "No"
+  "no": "No",
+  "morning.workout": "Carica del mattino",
+  "midday.workout": "Spinta di mezzogiorno",
+  "afternoon.hustle": "Sprint pomeridiano",
+  "evening.grind": "Sfida serale",
+  "night.owl.session": "Sessione notturna",
+  "midnight.burn": "Fiamma di mezzanotte"
 }

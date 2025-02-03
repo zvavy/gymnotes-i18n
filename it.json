@@ -328,5 +328,11 @@
   "afternoon.hustle": "Sprint pomeridiano",
   "evening.grind": "Sfida serale",
   "night.owl.session": "Sessione notturna",
-  "midnight.burn": "Fiamma di mezzanotte"
+  "midnight.burn": "Fiamma di mezzanotte",
+  "save.as.routine": "Salva come routine",
+  "save.as.new.routine": "Salva come nuova routine",
+  "choose.weekday": "Scegli un giorno della settimana",
+  "overwrite.routine": "Sovrascrivi routine",
+  "overwrite.routine.question": "Sei sicuro di voler sovrascrivere questa routine?",
+  "overwrite": "Sovrascrivere"
 }

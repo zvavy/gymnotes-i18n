@@ -328,5 +328,11 @@
   "afternoon.hustle": "Empuje de la tarde",
   "evening.grind": "Esfuerzo nocturno",
   "night.owl.session": "Sesión nocturna",
-  "midnight.burn": "Ardor de medianoche"
+  "midnight.burn": "Ardor de medianoche",
+  "save.as.routine": "Guardar como rutina",
+  "save.as.new.routine": "Guardar como nueva rutina",
+  "choose.weekday": "Elige un día de la semana",
+  "overwrite.routine": "Sobrescribir rutina",
+  "overwrite.routine.question": "¿Estás seguro de que deseas sobrescribir esta rutina?",
+  "overwrite": "Sobrescribir"
 }

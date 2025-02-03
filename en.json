@@ -328,5 +328,11 @@
   "afternoon.hustle": "Afternoon Hustle",
   "evening.grind": "Evening Grind",
   "night.owl.session": "Night Owl Session",
-  "midnight.burn": "Midnight Burn"
+  "midnight.burn": "Midnight Burn",
+  "save.as.routine": "Save as Routine",
+  "save.as.new.routine": "Save as new Routine",
+  "choose.weekday": "Choose weekday",
+  "overwrite.routine": "Overwrite Routine",
+  "overwrite.routine.question": "Are you sure you want to overwrite this routine?",
+  "overwrite": "Overwrite"
 }

@@ -328,5 +328,11 @@
   "afternoon.hustle": "Nachmittags-Schub",
   "evening.grind": "Abend-Kraftakt",
   "night.owl.session": "Nachtaktive Einheit",
-  "midnight.burn": "Mitternachts-Burnout"
+  "midnight.burn": "Mitternachts-Burnout",
+  "save.as.routine": "Als Routine speichern",
+  "save.as.new.routine": "Als neue Routine speichern",
+  "choose.weekday": "Wochentag wählen",
+  "overwrite.routine": "Routine überschreiben",
+  "overwrite.routine.question": "Bist du sicher, dass du diese Routine überschreiben möchtest?",
+  "overwrite": "Überschreiben"
 }

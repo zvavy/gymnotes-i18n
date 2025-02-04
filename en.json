@@ -334,8 +334,8 @@
   "add.to.my.routines": "Add to my routines",
   "choose.weekday": "Choose weekday",
   "overwrite.routine": "Overwrite Routine",
-  "overwrite.change.to": "Overwrite changes to {{routineName}}",
-  "overwrite.routine.question": "Are you sure you want to overwrite this routine?",
+  "overwrite.change.to": "Overwrite changes to \"{{routineName}}\"",
+  "overwrite.routine.question": "Are you sure you want to overwrite changes to \"{{routineName}}\"?",
   "overwrite": "Overwrite",
   "new": "New"
 }

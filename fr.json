@@ -331,9 +331,11 @@
   "midnight.burn": "Brûlure de minuit",
   "save.as.routine": "Enregistrer comme routine",
   "save.as.new.routine": "Enregistrer comme nouvelle routine",
+  "add.to.my.routines": "Ajouter à mes routines",
   "choose.weekday": "Choisir un jour de la semaine",
   "overwrite.routine": "Écraser la routine",
-  "overwrite.routine.question": "Êtes-vous sûr de vouloir écraser cette routine ?",
+  "overwrite.change.to": "Écraser les modifications de \"{{routineName}}\"",
+  "overwrite.routine.question": "Êtes-vous sûr de vouloir écraser les modifications de \"{{routineName}}\" ?",
   "overwrite": "Écraser",
   "new": "Nouveau"
 }

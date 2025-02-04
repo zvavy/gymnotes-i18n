@@ -331,9 +331,11 @@
   "midnight.burn": "Ardor de medianoche",
   "save.as.routine": "Guardar como rutina",
   "save.as.new.routine": "Guardar como nueva rutina",
+  "add.to.my.routines": "Añadir a mis rutinas",
   "choose.weekday": "Elige un día de la semana",
   "overwrite.routine": "Sobrescribir rutina",
-  "overwrite.routine.question": "¿Estás seguro de que deseas sobrescribir esta rutina?",
+  "overwrite.change.to": "Sobrescribir cambios en \"{{routineName}}\"",
+  "overwrite.routine.question": "¿Estás seguro de que deseas sobrescribir los cambios en \"{{routineName}}\"?",
   "overwrite": "Sobrescribir",
   "new": "Nuevo"
 }

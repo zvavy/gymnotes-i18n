@@ -331,9 +331,11 @@
   "midnight.burn": "Mitternachts-Burnout",
   "save.as.routine": "Als Routine speichern",
   "save.as.new.routine": "Als neue Routine speichern",
+  "add.to.my.routines": "Zu meinen Routinen hinzufügen",
   "choose.weekday": "Wochentag wählen",
   "overwrite.routine": "Routine überschreiben",
-  "overwrite.routine.question": "Bist du sicher, dass du diese Routine überschreiben möchtest?",
+  "overwrite.change.to": "Änderungen an \"{{routineName}}\" überschreiben",
+  "overwrite.routine.question": "Bist du sicher, dass du die Änderungen an \"{{routineName}}\" überschreiben möchtest?",
   "overwrite": "Überschreiben",
   "new": "Neu"
 }

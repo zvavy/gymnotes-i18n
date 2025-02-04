@@ -331,8 +331,11 @@
   "midnight.burn": "Midnight Burn",
   "save.as.routine": "Save as Routine",
   "save.as.new.routine": "Save as new Routine",
+  "add.to.my.routines": "Add to my routines",
   "choose.weekday": "Choose weekday",
   "overwrite.routine": "Overwrite Routine",
+  "overwrite.change.to": "Overwrite changes to {{routineName}}",
   "overwrite.routine.question": "Are you sure you want to overwrite this routine?",
-  "overwrite": "Overwrite"
+  "overwrite": "Overwrite",
+  "new": "New"
 }

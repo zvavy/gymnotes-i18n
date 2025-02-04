@@ -334,5 +334,6 @@
   "choose.weekday": "Choisir un jour de la semaine",
   "overwrite.routine": "Écraser la routine",
   "overwrite.routine.question": "Êtes-vous sûr de vouloir écraser cette routine ?",
-  "overwrite": "Écraser"
+  "overwrite": "Écraser",
+  "new": "Nouveau"
 }

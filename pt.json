@@ -334,5 +334,6 @@
   "choose.weekday": "Escolha um dia da semana",
   "overwrite.routine": "Sobrescrever rotina",
   "overwrite.routine.question": "Tem certeza de que deseja sobrescrever esta rotina?",
-  "overwrite": "Sobrescrever"
+  "overwrite": "Sobrescrever",
+  "new": "Novo"
 }

@@ -330,12 +330,13 @@
   "night.owl.session": "Night Owl Session",
   "midnight.burn": "Midnight Burn",
   "save.as.routine": "Save as Routine",
-  "save.as.new.routine": "Save as new Routine",
-  "add.to.my.routines": "Add to my routines",
+  "save.as.new.routine": "Save as a new Routine",
+  "add.to.my.routines": "Add to My Routines",
   "choose.weekday": "Choose weekday",
   "overwrite.routine": "Overwrite Routine",
   "overwrite.change.to": "Overwrite changes to \"{{routineName}}\"",
   "overwrite.routine.question": "Are you sure you want to overwrite changes to \"{{routineName}}\"?",
   "overwrite": "Overwrite",
-  "new": "New"
+  "new": "New",
+  "allow.access.to.camera": "You've refused to allow this app to access your camera! Go to settings, search for GymNotes and allow access to camera"
 }

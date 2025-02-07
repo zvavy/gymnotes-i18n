@@ -337,5 +337,7 @@
   "overwrite.change.to": "Écraser les modifications de \"{{routineName}}\"",
   "overwrite.routine.question": "Êtes-vous sûr de vouloir écraser les modifications de \"{{routineName}}\" ?",
   "overwrite": "Écraser",
-  "new": "Nouveau"
+  "new": "Nouveau",
+  "allow.access.to.camera": "Vous avez refusé à cette application l'accès à votre caméra ! Allez dans les paramètres, recherchez GymNotes et autorisez l'accès à la caméra.",
+  "allow.access.to.notifications": "Vous avez refusé à cette application l'accès à vos notifications ! Allez dans les paramètres, recherchez GymNotes et autorisez l'accès aux notifications."
 }

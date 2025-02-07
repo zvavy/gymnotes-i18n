@@ -337,5 +337,7 @@
   "overwrite.change.to": "Änderungen an \"{{routineName}}\" überschreiben",
   "overwrite.routine.question": "Bist du sicher, dass du die Änderungen an \"{{routineName}}\" überschreiben möchtest?",
   "overwrite": "Überschreiben",
-  "new": "Neu"
+  "new": "Neu",
+  "allow.access.to.camera": "Du hast dieser App den Zugriff auf deine Kamera verweigert! Gehe zu den Einstellungen, suche nach GymNotes und erlaube den Kamerazugriff.",
+  "allow.access.to.notifications": "Du hast dieser App den Zugriff auf deine Benachrichtigungen verweigert! Gehe zu den Einstellungen, suche nach GymNotes und erlaube den Zugriff auf Benachrichtigungen."
 }

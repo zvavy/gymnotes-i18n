@@ -337,5 +337,7 @@
   "overwrite.change.to": "Sobrescribir cambios en \"{{routineName}}\"",
   "overwrite.routine.question": "¿Estás seguro de que deseas sobrescribir los cambios en \"{{routineName}}\"?",
   "overwrite": "Sobrescribir",
-  "new": "Nuevo"
+  "new": "Nuevo",
+  "allow.access.to.camera": "Has rechazado el acceso de esta aplicación a tu cámara. Ve a configuración, busca GymNotes y permite el acceso a la cámara.",
+  "allow.access.to.notifications": "Has rechazado el acceso de esta aplicación a tus notificaciones. Ve a configuración, busca GymNotes y permite el acceso a las notificaciones."
 }

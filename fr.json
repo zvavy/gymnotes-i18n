@@ -339,5 +339,11 @@
   "overwrite": "Écraser",
   "new": "Nouveau",
   "allow.access.to.camera": "Vous avez refusé à cette application l'accès à votre caméra ! Allez dans les paramètres, recherchez GymNotes et autorisez l'accès à la caméra.",
-  "allow.access.to.notifications": "Vous avez refusé à cette application l'accès à vos notifications ! Allez dans les paramètres, recherchez GymNotes et autorisez l'accès aux notifications."
+  "allow.access.to.notifications": "Vous avez refusé à cette application l'accès à vos notifications ! Allez dans les paramètres, recherchez GymNotes et autorisez l'accès aux notifications.",
+  "exercise.history.nothing.to.show.yet": "Rien à afficher... pour le moment",
+  "exercise.history.come.back.later": "Revenez après avoir enregistré cet exercice dans un entraînement pour voir votre historique.",
+  "photo": "Photo",
+  "video": "Vidéo",
+  "summary": "Résumé",
+  "reorder.exercises": "Réorganiser les exercices"
 }

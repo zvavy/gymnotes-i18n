@@ -339,5 +339,11 @@
   "overwrite": "Sobrescribir",
   "new": "Nuevo",
   "allow.access.to.camera": "Has rechazado el acceso de esta aplicación a tu cámara. Ve a configuración, busca GymNotes y permite el acceso a la cámara.",
-  "allow.access.to.notifications": "Has rechazado el acceso de esta aplicación a tus notificaciones. Ve a configuración, busca GymNotes y permite el acceso a las notificaciones."
+  "allow.access.to.notifications": "Has rechazado el acceso de esta aplicación a tus notificaciones. Ve a configuración, busca GymNotes y permite el acceso a las notificaciones.",
+  "exercise.history.nothing.to.show.yet": "Nada que mostrar... por ahora",
+  "exercise.history.come.back.later": "Vuelve después de registrar este ejercicio en un entrenamiento para ver tu historial.",
+  "photo": "Foto",
+  "video": "Vídeo",
+  "summary": "Resumen",
+  "reorder.exercises": "Reordenar ejercicios"
 }

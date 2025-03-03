@@ -343,5 +343,7 @@
   "exercise.history.nothing.to.show.yet": "Nothing to show... yet",
   "exercise.history.come.back.later": "Come back after logging this exercise in a workout to see your history",
   "photo": "Photo",
-  "video": "Video"
+  "video": "Video",
+  "summary": "Summary",
+  "reorder.exercises": "Reorder exercises"
 }

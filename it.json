@@ -339,5 +339,11 @@
   "overwrite": "Sovrascrivere",
   "new": "Nuovo",
   "allow.access.to.camera": "Hai negato a questa app l’accesso alla tua fotocamera! Vai nelle impostazioni, cerca GymNotes e consenti l’accesso alla fotocamera.",
-  "allow.access.to.notifications": "Hai negato a questa app l’accesso alle tue notifiche! Vai nelle impostazioni, cerca GymNotes e consenti l’accesso alle notifiche."
+  "allow.access.to.notifications": "Hai negato a questa app l’accesso alle tue notifiche! Vai nelle impostazioni, cerca GymNotes e consenti l’accesso alle notifiche.",
+  "exercise.history.nothing.to.show.yet": "Niente da mostrare... per ora",
+  "exercise.history.come.back.later": "Torna dopo aver registrato questo esercizio in un allenamento per vedere la tua cronologia.",
+  "photo": "Foto",
+  "video": "Video",
+  "summary": "Riepilogo",
+  "reorder.exercises": "Riordina gli esercizi"
 }

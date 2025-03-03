@@ -339,5 +339,11 @@
   "overwrite": "Überschreiben",
   "new": "Neu",
   "allow.access.to.camera": "Du hast dieser App den Zugriff auf deine Kamera verweigert! Gehe zu den Einstellungen, suche nach GymNotes und erlaube den Kamerazugriff.",
-  "allow.access.to.notifications": "Du hast dieser App den Zugriff auf deine Benachrichtigungen verweigert! Gehe zu den Einstellungen, suche nach GymNotes und erlaube den Zugriff auf Benachrichtigungen."
+  "allow.access.to.notifications": "Du hast dieser App den Zugriff auf deine Benachrichtigungen verweigert! Gehe zu den Einstellungen, suche nach GymNotes und erlaube den Zugriff auf Benachrichtigungen.",
+  "exercise.history.nothing.to.show.yet": "Noch nichts zu sehen... aber bald!",
+  "exercise.history.come.back.later": "Komm zurück, nachdem du diese Übung in einem Workout protokolliert hast, um deine Historie zu sehen.",
+  "photo": "Foto",
+  "video": "Video",
+  "summary": "Zusammenfassung",
+  "reorder.exercises": "Übungen neu anordnen"
 }

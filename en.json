@@ -345,5 +345,6 @@
   "photo": "Photo",
   "video": "Video",
   "summary": "Summary",
-  "reorder.exercises": "Reorder exercises"
+  "reorder.exercises": "Reorder exercises",
+  "sets.preformed": "Sets performed"
 }

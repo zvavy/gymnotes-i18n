@@ -346,5 +346,12 @@
   "video": "Vidéo",
   "summary": "Résumé",
   "reorder.exercises": "Réorganiser les exercices",
-  "sets.preformed": "Séries effectuées"
+  "sets.preformed": "Séries effectuées",
+  "measurements": "Mesures",
+  "resume": "Reprendre",
+  "build.your.workout": "Construis ton entraînement",
+  "add.exercises.to.get.started": "Ajoute des exercices pour commencer",
+  "start.empty.workout": "Démarrer un entraînement vide",
+  "explore": "Explorer",
+  "saving": "Enregistrement..."
 }

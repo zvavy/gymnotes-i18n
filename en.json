@@ -353,5 +353,6 @@
   "add.exercises.to.get.started": "Add exercises to get started",
   "start.empty.workout": "Start empty workout",
   "explore": "Explore",
-  "saving": "Saving..."
+  "saving": "Saving...",
+  "create.routine.description": "Create your routines (e.g Chest and Biceps) once and reuse them for every session."
 }

@@ -353,5 +353,6 @@
   "add.exercises.to.get.started": "Añade ejercicios para empezar",
   "start.empty.workout": "Iniciar entrenamiento vacío",
   "explore": "Explorar",
-  "saving": "Guardando..."
+  "saving": "Guardando...",
+  "create.routine.description": "Crea tus rutinas (por ejemplo, Pecho y Bíceps) una vez y reutilízalas en cada sesión."
 }

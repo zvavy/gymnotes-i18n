@@ -354,5 +354,6 @@
   "start.empty.workout": "Avvia allenamento vuoto",
   "explore": "Esplora",
   "saving": "Salvataggio...",
-  "create.routine.description": "Crea le tue routine (es. Petto e Bicipiti) una volta e riutilizzale in ogni sessione."
+  "create.routine.description": "Crea le tue routine (es. Petto e Bicipiti) una volta e riutilizzale in ogni sessione.",
+  "start.routine": "Inizia routine"
 }

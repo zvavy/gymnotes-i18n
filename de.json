@@ -354,5 +354,6 @@
   "start.empty.workout": "Leeres Workout starten",
   "explore": "Entdecken",
   "saving": "Speichern...",
-  "create.routine.description": "Erstelle deine Routinen (z. B. Brust und Bizeps) einmal und verwende sie in jeder Sitzung wieder."
+  "create.routine.description": "Erstelle deine Routinen (z. B. Brust und Bizeps) einmal und verwende sie in jeder Sitzung wieder.",
+  "start.routine": "Routine starten"
 }

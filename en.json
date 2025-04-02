@@ -354,5 +354,6 @@
   "start.empty.workout": "Start empty workout",
   "explore": "Explore",
   "saving": "Saving...",
-  "create.routine.description": "Create your routines (e.g Chest and Biceps) once and reuse them for every session."
+  "create.routine.description": "Create your routines (e.g Chest and Biceps) once and reuse them for every session.",
+  "start.routine": "Start Routine"
 }

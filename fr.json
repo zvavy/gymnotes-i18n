@@ -354,5 +354,6 @@
   "start.empty.workout": "Démarrer un entraînement vide",
   "explore": "Explorer",
   "saving": "Enregistrement...",
-  "create.routine.description": "Crée tes routines (ex. : Poitrine et Biceps) une fois et réutilise-les à chaque séance."
+  "create.routine.description": "Crée tes routines (ex. : Poitrine et Biceps) une fois et réutilise-les à chaque séance.",
+  "start.routine": "Démarrer la routine"
 }

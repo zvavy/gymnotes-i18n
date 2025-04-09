@@ -355,5 +355,9 @@
   "explore": "Esplora",
   "saving": "Salvataggio...",
   "create.routine.description": "Crea le tue routine (es. Petto e Bicipiti) una volta e riutilizzale in ogni sessione.",
-  "start.routine": "Inizia routine"
+  "start.routine": "Inizia routine",
+  "superset": "Superset",
+  "remove.from.superset": "Rimuovi dal superset",
+  "add.to.superset": "Aggiungi al superset",
+  "with.dots": "con ..."
 }

@@ -355,5 +355,9 @@
   "explore": "Explorar",
   "saving": "Salvando...",
   "create.routine.description": "Crie suas rotinas (ex.: Peito e Bíceps) uma vez e reutilize-as em todas as sessões.",
-  "start.routine": "Iniciar rotina"
+  "start.routine": "Iniciar rotina",
+  "superset": "Superconjunto",
+  "remove.from.superset": "Remover do superconjunto",
+  "add.to.superset": "Adicionar ao superconjunto",
+  "with.dots": "com ..."
 }

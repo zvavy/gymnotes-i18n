@@ -355,5 +355,9 @@
   "explore": "Explorer",
   "saving": "Enregistrement...",
   "create.routine.description": "Crée tes routines (ex. : Poitrine et Biceps) une fois et réutilise-les à chaque séance.",
-  "start.routine": "Démarrer la routine"
+  "start.routine": "Démarrer la routine",
+  "superset": "Superset",
+  "remove.from.superset": "Supprimer du superset",
+  "add.to.superset": "Ajouter au surensemble",
+  "with.dots": "avec ..."
 }

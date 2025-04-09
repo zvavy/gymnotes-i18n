@@ -355,5 +355,9 @@
   "explore": "Explore",
   "saving": "Saving...",
   "create.routine.description": "Create your routines (e.g Chest and Biceps) once and reuse them for every session.",
-  "start.routine": "Start Routine"
+  "start.routine": "Start Routine",
+  "superset": "Superset",
+  "remove.from.superset": "Remove from superset",
+  "add.to.superset": "Add to superset",
+  "with.dots": "with ..."
 }

@@ -238,7 +238,7 @@
   "friday.short": "Pe",
   "saturday.short": "La",
   "sunday.short": "Su",
-  "Add.Day": "Lisää päivä",  
+  "Add.Day": "Lisää päivä",
   "Create.your.first.Routine.description": "Ei tarvitse aloittaa treeniä tyhjästä joka kerta. Luo omat ohjelmasi (esim. Rinta ja hauikset) kerran ja käytä niitä uudelleen jokaisessa treenissä.",
   "start": "Aloita",
   "optional": "Valinnainen",
@@ -359,6 +359,9 @@
   "superset": "Supersarja",
   "remove.from.superset": "Poista supersarjasta",
   "add.to.superset": "Lisää supersarjaan",
-  "with.dots": "..."
+  "with.dots": "...",
+  "preview": "Esikatsele",
+  "monthly": "Kuukausittain",
+  "yearly": "Vuosittain",
+  "lifetime": "Elinikäinen"
 }
-

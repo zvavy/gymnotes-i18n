@@ -117,7 +117,7 @@
   "new.exercise": "ახალი ვარჯიში",
   "add.image": "სურათის დამატება",
   "take.photo": "სურათის გადაღება",
-  "select.from.library": "აირჩიე გალერეიდან",       
+  "select.from.library": "აირჩიე გალერეიდან",
   "secondary.muscle.groups": "მეორადი კუნთების ჯგუფები",
   "update": "განახლება",
   "filter": "ფილტრი",
@@ -308,8 +308,8 @@
   "unlimited.custom.routines": "შეუზღუდავი საკუთარი რუტინები",
   "upgrade": "განახლება",
   "repeat.workouts.restriction.message": "გამეორება შესაძლებელია მხოლოდ ბოლო 30 დღის ვარჯიშებისთვის – განაახლე სრული წვდომისთვის!",
-  "remaining.exercises": "{{ count }} უფასო ვარჯიში დარჩა",
-  "free.routines.remaining": "{{ remaining }} უფასო რუტინა დარჩა",
+  "remaining.exercises": "დარჩა {{ count }} უფასო ვარჯიში",
+  "free.routines.remaining": "დარჩა {{ remaining }} უფასო რუტინა",
   "upgrade.exclusiveRoutines.description": "უფასო ანგარიშს შეუძლია გამოიყენოს მხოლოდ {{ limit }} ექსკლუზიური რუტინა. განაახლე GymNotes Pro-ზე ყველა ექსკლუზიურის გასახსნელად!",
   "billed.monthly": "თვიური ანგარიშით",
   "billed.annually": "წლიური ანგარიშით",
@@ -359,5 +359,9 @@
   "superset": "სუპერსეტი",
   "remove.from.superset": "ამოიღე სუპერსეტიდან",
   "add.to.superset": "დაამატე სუპერსეტში",
-  "with.dots": "თან ..."
+  "with.dots": "თან ...",
+  "preview": "მაგალითი",
+  "monthly": "თვიური",
+  "yearly": "წლიური",
+  "lifetime": "სამუდამო"
 }

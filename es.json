@@ -359,5 +359,9 @@
   "superset": "Superset",
   "remove.from.superset": "Eliminar del superconjunto",
   "add.to.superset": "Añadir al superconjunto",
-  "with.dots": "con ..."
+  "with.dots": "con ...",
+  "preview": "Vista previa",
+  "monthly": "Mensual",
+  "yearly": "Anual",
+  "lifetime": "De por vida"
 }

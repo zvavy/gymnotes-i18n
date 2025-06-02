@@ -14,7 +14,7 @@
   "discard": "Verwerfen",
   "discard.workout.question": "Möchtest du das Training verwerfen?",
   "remove.exercise": "Übung entfernen",
-  "set": "Satz",
+  "set": "Set",
   "add.set": "SATZ HINZUFÜGEN",
   "remove.set": "Satz entfernen",
   "normal.set": "Normaler Satz",
@@ -40,7 +40,7 @@
   "time": "Zeit",
   "done": "Fertig",
   "best.set": "Bester Satz",
-  "reps": "Wiederholungen",
+  "reps": "WHD",
   "details": "Details",
   "primary.muscle": "Primärer Muskel",
   "secondary.muscle": "Sekundärer Muskel",
@@ -359,5 +359,9 @@
   "superset": "Superset",
   "remove.from.superset": "Aus der Obermenge entfernen",
   "add.to.superset": "Zur Obermenge hinzufügen",
-  "with.dots": "mit ..."
+  "with.dots": "mit ...",
+  "preview": "Vorschau",
+  "monthly": "Monatlich",
+  "yearly": "Jährlich",
+  "lifetime": "Lebenslang"
 }

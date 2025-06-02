@@ -359,5 +359,9 @@
   "superset": "Superset",
   "remove.from.superset": "Remove from superset",
   "add.to.superset": "Add to superset",
-  "with.dots": "with ..."
+  "with.dots": "with ...",
+  "preview": "Preview",
+  "monthly": "Monthly",
+  "yearly": "Yearly",
+  "lifetime": "Lifetime"
 }

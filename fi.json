@@ -415,5 +415,6 @@
   "log.and.track.workouts": "Kirjaa ja seuraa treenejä",
   "male": "Mies",
   "female": "Nainen",
-  "rate.us": "Arvostele meidät"
+  "rate.us": "Arvostele meidät",
+  "select.duration": "Valitse kesto"
 }

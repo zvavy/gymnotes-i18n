@@ -416,5 +416,7 @@
   "male": "Male",
   "female": "Female",
   "rate.us": "Rate us",
-  "select.duration": "Select duration"
+  "select.duration": "Select duration",
+  "extra.features": "Extra Features",
+  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Upgrade to PRO and get access to all exclusive features"
 }

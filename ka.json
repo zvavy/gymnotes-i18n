@@ -416,5 +416,7 @@
   "male": "მამრობითი",
   "female": "მდედრობითი",
   "rate.us": "შეაფასეთ ჩვენ",
-  "select.duration": "ხანგრძლივობა"
+  "select.duration": "ხანგრძლივობა",
+  "extra.features": "დამატებითი ფუნქციები",
+  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "გამოიწერეთ PRO და მიიღეთ ყველა ექსკლუზიური ფუნქცია"
 }

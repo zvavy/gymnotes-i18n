@@ -416,5 +416,7 @@
   "male": "Mies",
   "female": "Nainen",
   "rate.us": "Arvostele meidät",
-  "select.duration": "Valitse kesto"
+  "select.duration": "Valitse kesto",
+  "extra.features": "Lisäominaisuudet",
+  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Päivitä PRO-versioon ja saat kaikki eksklusiiviset ominaisuudet"
 }

@@ -418,5 +418,7 @@
   "rate.us": "Califícanos",
   "select.duration": "Seleccionar duración",
   "extra.features": "Características Extra",
-  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Actualizar a PRO y obtener acceso a todas las características exclusivas"
+  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Actualizar a PRO y obtener acceso a todas las características exclusivas",
+  "show.exercises.for.this.machine": "¿Mostrar ejercicios para esta máquina?",
+  "machine.identified": "¡Máquina identificada!"
 }

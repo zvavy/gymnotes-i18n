@@ -418,5 +418,7 @@
   "rate.us": "შეაფასეთ ჩვენ",
   "select.duration": "ხანგრძლივობა",
   "extra.features": "დამატებითი ფუნქციები",
-  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "გამოიწერეთ PRO და მიიღეთ ყველა ექსკლუზიური ფუნქცია"
+  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "გამოიწერეთ PRO და მიიღეთ ყველა ექსკლუზიური ფუნქცია",
+  "show.exercises.for.this.machine": "გამოვაჩინოთ ვარჯიშები ამ მანქანისთვის?",
+  "machine.identified": "მანქანა ამოცნობილია!"
 }

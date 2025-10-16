@@ -418,5 +418,7 @@
   "rate.us": "Arvostele meidät",
   "select.duration": "Valitse kesto",
   "extra.features": "Lisäominaisuudet",
-  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Päivitä PRO-versioon ja saat kaikki eksklusiiviset ominaisuudet"
+  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Päivitä PRO-versioon ja saat kaikki eksklusiiviset ominaisuudet",
+  "show.exercises.for.this.machine": "Näytä harjoitukset tälle laitteelle?",
+  "machine.identified": "Laite tunnistettu!"
 }

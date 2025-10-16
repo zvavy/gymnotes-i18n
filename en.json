@@ -418,5 +418,7 @@
   "rate.us": "Rate us",
   "select.duration": "Select duration",
   "extra.features": "Extra Features",
-  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Upgrade to PRO and get access to all exclusive features"
+  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Upgrade to PRO and get access to all exclusive features",
+  "show.exercises.for.this.machine": "Show exercises for this machine?",
+  "machine.identified": "Machine Identified!"
 }

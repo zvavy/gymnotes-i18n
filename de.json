@@ -418,5 +418,7 @@
   "rate.us": "Bewerten Sie uns",
   "select.duration": "Dauer auswählen",
   "extra.features": "Extra Funktionen",
-  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Upgrade auf PRO und erhalte Zugriff auf alle exklusiven Funktionen"
+  "upgrade.to.pro.and.get.access.to.all.exclusive.features": "Upgrade auf PRO und erhalte Zugriff auf alle exklusiven Funktionen",
+  "show.exercises.for.this.machine": "Übungen für dieses Gerät anzeigen?",
+  "machine.identified": "Gerät erkannt!"
 }
